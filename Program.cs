@@ -1,4 +1,4 @@
-﻿/* A simple C# solution to the consumer and producer problem described in William Stalling's Operating Systems book using Semaphores
+﻿/* A simple C# solution to the consumer and producer problem described in William Stallings' Operating Systems book using Semaphores
  * By Roham Harandi Fasih
  * 
  * 

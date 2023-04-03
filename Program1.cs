@@ -1,4 +1,4 @@
-﻿/* A solution to the producer consumer problem described in William Stalling's Operating Systems book using no semaphores
+﻿/* A solution to the producer consumer problem described in William Stallings' Operating Systems book using no semaphores
  * this example shows the busy waiting cycle which happens if no semaphores are being used
  * 
  * By Roham Harandi Fasih
